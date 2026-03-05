@@ -36,7 +36,7 @@ public class RPSGame {
                     System.out.println("Invalid move. Try again.");
                 }
             } while (!gotPlayerAMove);
-            // Player A Input
+            // Player B Input
             do {
                 System.out.print("Player B: Enter your move [RPS]: ");
                 playerB = in.nextLine();
